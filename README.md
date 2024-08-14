@@ -7,7 +7,7 @@ The solutions is in the file pymaceuticals.ipynb, and data used is in the data f
 
 ## Key findings were:
 
-In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against Ramicane, Ketapril, Naftisol, Zoniferol, Placebo, Stelasyn, Ceftamin, Infubinol, and Propriva.
+In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticalsâ€™ drug of interest, Capomulin, against Ramicane, Ketapril, Naftisol, Zoniferol, Placebo, Stelasyn, Ceftamin, Infubinol, and Propriva.
 
 Mice treated with Capomulin and Ramicane had the highest numbers of mice points, exposure, compared to the rest of the drug regimen. Propriva had the least observed mouse points in the course of the study
 
@@ -31,6 +31,8 @@ Prepare the data.
 
 
 ## Prepare the Data
+"C:\Users\enmwa\OneDrive\Desktop\Matplotlib_challenge5\Pymaceuticals"
+
 Run the provided package dependency and data imports, and then merge the mouse_metadata and study_results DataFrames into a single DataFrame.
 
 - Display the number of unique mice IDs in the data, and then check for any mouse ID with duplicate time points. Display the data associated with that mouse ID, and then create a new DataFrame where this data is removed. Use this cleaned DataFrame for the remaining steps.
